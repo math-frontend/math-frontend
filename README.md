@@ -1,16 +1,13 @@
-### Você por aqui! Olá 👋
+Sobre Mim
 
-<!--
-**math-frontend/math-frontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento de aplicações escaláveis utilizando Nuxt 3, Vue.js, Node.js, e diversas outras tecnologias modernas. Meu foco é criar soluções eficientes, performáticas e fáceis de manter.
 
-Here are some ideas to get you started:
+🚀 Tecnologias que utilizo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: Vue.js, Nuxt.js, Vuetify, TailwindCSS
+Backend: Node.js, Express, Firebase, Supabase
+Banco de Dados: MongoDB, PostgreSQL, MySQL
+DevOps: Docker, CI/CD, Vercel, Netlify
+Testes: Jest, Cypress, Chromatic
+
+📫 Vamos nos conectar?
