@@ -4,14 +4,10 @@ Sobre Mim
 
 🚀 Tecnologias que utilizo:
 
-Frontend: Vue.js, Nuxt.js, Vuetify, TailwindCSS
-
-Backend: Node.js, Express, Firebase, Supabase
-
-Banco de Dados: MongoDB, PostgreSQL, MySQL
-
-DevOps: Docker, CI/CD, Vercel, Netlify
-
+Frontend: Vue.js, Nuxt.js, Vuetify, TailwindCSS <br>
+Backend: Node.js, Express, Firebase, Supabase <br>
+Banco de Dados: MongoDB, PostgreSQL, MySQL <br>
+DevOps: Docker, CI/CD, Vercel, Netlify <br>
 Testes: Jest, Cypress, Chromatic
 
 📫 Vamos nos conectar?
