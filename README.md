@@ -1,5 +1,7 @@
 Sobre Mim
 
+desenvolvedor.vip
+
 👋 Olá! Sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento de aplicações escaláveis utilizando Nuxt 3, Vue.js, Node.js, e diversas outras tecnologias modernas. Meu foco é criar soluções eficientes, performáticas e fáceis de manter.
 
 🚀 Tecnologias que utilizo:
